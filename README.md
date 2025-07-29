@@ -34,8 +34,6 @@ Ideal para apresentar meu perfil profissional de forma clara e funcional.
 ---
 
 
----
-
 ## 👨‍💻 Sobre mim
 
 Sou apaixonado por tecnologia, sempre buscando aprender e aplicar novos conhecimentos.  
